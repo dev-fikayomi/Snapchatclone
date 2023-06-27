@@ -1,0 +1,45 @@
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing:border-box;
+}
+
+.sccontainer2{
+    background-color:rgb(255, 255, 0);
+    width: 288px;
+    height:450px;
+    margin: 20px auto;
+    border-radius:0px 0px 10px 10px ;
+    margin-bottom: -50px;
+    border: 3px solid black;
+    border-radius:10px 10px 10px 10px ;
+}
+.logo{
+    margin-left: 60px;
+    margin-top: 60px;
+}
+button{
+    border-radius:10px ;
+    width: 70px;
+    height: 40px;
+    background-color:white;
+    text-align: center;
+}
+.button1{
+    margin-left: 60px;
+    margin-top: 135px;
+}
+.button2{
+    margin-left: 150px;
+    margin-top: -40px;
+}
+button:hover{
+    transform: -0.7;
+    background-color:blue;
+    border:#f3bc1c 1px solid;
+    color: black;
+    cursor: pointer;
+
+}
